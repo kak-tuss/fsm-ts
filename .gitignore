@@ -1,0 +1,16 @@
+# Dependency directories
+node_modules/
+
+# Output of the compiler
+dist/
+
+# IDE files
+.vscode/
+*.iml
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+
